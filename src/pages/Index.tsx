@@ -92,7 +92,7 @@ const Index = () => {
           <div className="flex items-center justify-between">
             <div className="flex items-center gap-2">
               <Icon name="Flower2" className="text-primary" size={32} />
-              <h1 className="text-2xl font-bold text-primary">Цветы & Сладости</h1>
+              <h1 className="text-2xl font-bold text-primary">Букет и десерт</h1>
             </div>
             <div className="flex gap-6">
               <button 
@@ -130,7 +130,7 @@ const Index = () => {
             <div 
               className="absolute inset-0 bg-cover bg-center"
               style={{
-                backgroundImage: `url(https://cdn.poehali.dev/projects/409e5d0c-b726-4ff0-8953-80b84f8fb32a/files/9110c906-9f00-4f31-bf6b-307e160caf44.jpg)`,
+                backgroundImage: `url(https://cdn.poehali.dev/projects/409e5d0c-b726-4ff0-8953-80b84f8fb32a/files/8ae57732-b32a-4034-a499-21082a675343.jpg)`,
               }}
             >
               <div className="absolute inset-0 bg-gradient-to-b from-background/60 via-background/80 to-background"></div>
@@ -360,8 +360,8 @@ const Index = () => {
                   </CardTitle>
                 </CardHeader>
                 <CardContent className="space-y-4 text-lg">
-                  <p>г. Москва, ул. Цветочная, д. 15</p>
-                  <p className="text-muted-foreground">Ежедневно с 9:00 до 21:00</p>
+                  <p>г. Санкт-Петербург, Невский проспект, д. 82</p>
+                  <p className="text-muted-foreground">Пн-Вс: 8:00 до 22:00</p>
                 </CardContent>
               </Card>
 
@@ -373,8 +373,8 @@ const Index = () => {
                   </CardTitle>
                 </CardHeader>
                 <CardContent className="space-y-4 text-lg">
-                  <p>+7 (495) 123-45-67</p>
-                  <p>info@flowers-sweets.ru</p>
+                  <p>+7 (812) 555-20-30</p>
+                  <p>hello@bouquet-dessert.ru</p>
                 </CardContent>
               </Card>
             </div>
@@ -422,19 +422,19 @@ const Index = () => {
               <ul className="space-y-4 text-lg text-muted-foreground">
                 <li className="flex items-start gap-3">
                   <Icon name="Clock" className="text-primary mt-1" size={20} />
-                  <span>Доставка в течение 2-4 часов по Москве</span>
+                  <span>Доставка в течение 1-3 часов по Санкт-Петербургу</span>
                 </li>
                 <li className="flex items-start gap-3">
                   <Icon name="MapPin" className="text-primary mt-1" size={20} />
-                  <span>Бесплатная доставка при заказе от 5000 ₽</span>
+                  <span>Бесплатная доставка при заказе от 4000 ₽</span>
                 </li>
                 <li className="flex items-start gap-3">
                   <Icon name="Package" className="text-primary mt-1" size={20} />
-                  <span>Отслеживание заказа в реальном времени через SMS</span>
+                  <span>Отслеживание курьера онлайн через WhatsApp</span>
                 </li>
                 <li className="flex items-start gap-3">
                   <Icon name="Heart" className="text-primary mt-1" size={20} />
-                  <span>Свежесть цветов гарантируем от 7 дней</span>
+                  <span>Гарантия свежести букетов до 10 дней</span>
                 </li>
               </ul>
             </div>
@@ -447,9 +447,9 @@ const Index = () => {
           <div className="flex flex-col md:flex-row justify-between items-center gap-6">
             <div className="flex items-center gap-2">
               <Icon name="Flower2" className="text-primary" size={28} />
-              <span className="text-xl font-semibold">Цветы & Сладости</span>
+              <span className="text-xl font-semibold">Букет и десерт</span>
             </div>
-            <p className="text-muted-foreground">© 2024 Все права защищены</p>
+            <p className="text-muted-foreground">© 2025 Все права защищены</p>
             <div className="flex gap-4">
               <Icon name="Instagram" className="text-muted-foreground hover:text-primary cursor-pointer transition-colors" size={24} />
               <Icon name="Facebook" className="text-muted-foreground hover:text-primary cursor-pointer transition-colors" size={24} />
