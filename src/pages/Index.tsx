@@ -360,8 +360,8 @@ const Index = () => {
                   </CardTitle>
                 </CardHeader>
                 <CardContent className="space-y-4 text-lg">
-                  <p>г. Санкт-Петербург, Невский проспект, д. 82</p>
-                  <p className="text-muted-foreground">Пн-Вс: 8:00 до 22:00</p>
+                  <p>г. Астрахань, ул. Ленина, д. 12б</p>
+                  <p className="text-muted-foreground">Ежедневно с 9:00 до 22:00</p>
                 </CardContent>
               </Card>
 
@@ -373,7 +373,7 @@ const Index = () => {
                   </CardTitle>
                 </CardHeader>
                 <CardContent className="space-y-4 text-lg">
-                  <p>+7 (812) 555-20-30</p>
+                  <p>+7 (999) 645-31-80</p>
                   <p>hello@bouquet-dessert.ru</p>
                 </CardContent>
               </Card>
@@ -422,7 +422,7 @@ const Index = () => {
               <ul className="space-y-4 text-lg text-muted-foreground">
                 <li className="flex items-start gap-3">
                   <Icon name="Clock" className="text-primary mt-1" size={20} />
-                  <span>Доставка в течение 1-3 часов по Санкт-Петербургу</span>
+                  <span>Доставка в течение 1-2 часов по Астрахани</span>
                 </li>
                 <li className="flex items-start gap-3">
                   <Icon name="MapPin" className="text-primary mt-1" size={20} />
