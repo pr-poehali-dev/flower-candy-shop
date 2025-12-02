@@ -429,10 +429,6 @@ const Index = () => {
                   <span>Бесплатная доставка при заказе от 4000 ₽</span>
                 </li>
                 <li className="flex items-start gap-3">
-                  <Icon name="Package" className="text-primary mt-1" size={20} />
-                  <span>Отслеживание курьера онлайн через WhatsApp</span>
-                </li>
-                <li className="flex items-start gap-3">
                   <Icon name="Heart" className="text-primary mt-1" size={20} />
                   <span>Гарантия свежести букетов до 10 дней</span>
                 </li>
