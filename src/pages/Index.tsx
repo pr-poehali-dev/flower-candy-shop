@@ -374,7 +374,7 @@ const Index = () => {
                 </CardHeader>
                 <CardContent className="space-y-4 text-lg">
                   <p>+7 (999) 645-31-80</p>
-                  <p>hello@bouquet-dessert.ru</p>
+                  <p>puskind89@gmail.com</p>
                 </CardContent>
               </Card>
             </div>
