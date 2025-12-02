@@ -450,11 +450,6 @@ const Index = () => {
               <span className="text-xl font-semibold">Букет и десерт</span>
             </div>
             <p className="text-muted-foreground">© 2025 Все права защищены</p>
-            <div className="flex gap-4">
-              <Icon name="Instagram" className="text-muted-foreground hover:text-primary cursor-pointer transition-colors" size={24} />
-              <Icon name="Facebook" className="text-muted-foreground hover:text-primary cursor-pointer transition-colors" size={24} />
-              <Icon name="Twitter" className="text-muted-foreground hover:text-primary cursor-pointer transition-colors" size={24} />
-            </div>
           </div>
         </div>
       </footer>
